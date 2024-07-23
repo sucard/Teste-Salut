@@ -1,7 +1,5 @@
 # Teste Salut
 
-Bem-vindo ao **Teste Salut**! Este repositório contém um projeto de teste para uma vaga de emprego, utilizando HTML, Bootstrap e JavaScript.
-
 ## Tecnologias Utilizadas
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
